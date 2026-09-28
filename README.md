@@ -5,6 +5,14 @@ task-conditioned representation analyses. This repository includes reusable
 analysis code, a runnable 200-pair sample, compact summary files, and selected
 paper figures. The full data bundle is hosted as a Hugging Face dataset.
 
+**Project website:** [NameTrace](https://tafseer-nayeem.github.io/NameTrace/)
+
+**Dataset:** <a href="https://huggingface.co/datasets/tafseer-nayeem/NameTrace"><img src="assets/huggingface-logo.svg" alt="" width="18" height="18"> NameTrace on Hugging Face</a>
+
+[![NameTrace study overview: everyday name cues, matched name pairs, task-axis accessibility scoring, and the internal analyses](figures/nametrace_study_overview.jpg)](figures/nametrace_study_overview.jpg)
+
+*Study overview. Click the figure to view it at full resolution.*
+
 ## Contents
 
 - `src/nametrace/`: reusable analysis utilities for tokenization, pair
@@ -83,6 +91,7 @@ access to the model tokenizers or model weights.
 
 ## Included Figures
 
+- `nametrace_study_overview.jpg`: study design and analysis overview.
 - `tokenizer_allocation_by_name_metadata.pdf`: atomic first-name access across
   audited model-associated tokenizers.
 - `task_axis_accessibility_unseen_names.pdf`: pooled held-out task-axis

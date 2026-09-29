@@ -11,8 +11,6 @@ paper figures. The full data bundle is hosted as a Hugging Face dataset.
 
 [![NameTrace study overview: everyday name cues, matched name pairs, task-axis accessibility scoring, and the internal analyses](figures/nametrace_study_overview.jpg)](figures/nametrace_study_overview.jpg)
 
-*Study overview. Click the figure to view it at full resolution.*
-
 ## Contents
 
 - `src/nametrace/`: reusable analysis utilities for tokenization, pair

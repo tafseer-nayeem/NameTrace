@@ -7,7 +7,7 @@ paper figures. The full data bundle is hosted as a Hugging Face dataset.
 
 **Project website:** [NameTrace](https://tafseer-nayeem.github.io/NameTrace/)
 
-**Dataset:** <a href="https://huggingface.co/datasets/tafseer-nayeem/NameTrace"><img src="assets/huggingface-logo.svg" alt="" width="12" height="12"> NameTrace on Hugging Face</a>
+**Dataset:** <a href="https://huggingface.co/datasets/tafseer-nayeem/NameTrace"><img src="assets/huggingface-logo.svg" alt="" width="18" height="16"> NameTrace on Hugging Face</a>
 
 <p align="center">
   <a href="figures/nametrace_study_overview.jpg"><img src="figures/nametrace_study_overview.jpg" alt="NameTrace study overview: everyday name cues, matched name pairs, task-axis accessibility scoring, and the internal analyses" width="680"></a>
